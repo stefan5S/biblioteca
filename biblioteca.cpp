@@ -7,14 +7,14 @@ int main()
 {
 char s[100];
 
-carte R;///R vine de la Rosiori, adica de la mine de acasa :)
+carte R;
 
 /**din acest moment caramizile sunt create dar trebuie sa le imbinam astfel in cat sa ridicam zidul, ceea
 ce urmeaza se va comporta ca un meniu ce va respecta precizarile utilizatorului.*/
 
 
 R.rememorare();/**daca exista deja o baza de date se va rememora, indiferent de deciziile utilizatorului |||
-prima data baza de date nu exista, se creaza una, apoi se eventual este distrusa, se creaza o alta
+prima data baza de date nu exista, se creaza una, apoi eventual este distrusa, se creaza o alta
 si tot asa...*/
 
 
